@@ -71,8 +71,8 @@ body{
     margin: 0 auto;
     padding: 3em 5em 0 5em;}
 #content a{opacity:0.75;transition:0.2s;padding-right:2em}
-#content a:link    { color:#fff9eb; text-decoration:none; }
-#content a:visited { color:#dabaa9; text-decoration:none; }
+#content a:link    { color:#7c456b; text-decoration:none; }
+#content a:visited { color:#b47b7f; text-decoration:none; }
 #content a:hover{opacity:1.0}
 h1,h2,h3{
     font-size:3em;
