@@ -44,7 +44,7 @@ body{
     font-size:2em;}
 #navigation a{opacity:0.75;transition:0.2s;padding-right:2em}
 #navigation a:link    { color:#fff9eb; text-decoration:none; }
-#navigation a:visited { color:#dabaa9; text-decoration:none; }
+#navigation a:visited { color:#fff9eb; text-decoration:none; }
 #navigation a:hover{opacity:1.0}
 
 
@@ -55,7 +55,7 @@ body{
     font-size:2em;}
 #contact a{opacity:0.75;transition:0.2s;display:inline-block;padding-right:0.5em}
 #contact a:link    { color:#fff9eb; text-decoration:none; }
-#contact a:visited { color:#dabaa9; text-decoration:none; }
+#contact a:visited { color:#fff9eb; text-decoration:none; }
 #contact a:hover{opacity:1.0}
 
 
@@ -119,7 +119,10 @@ p{font-size:1.5em;}
         font-size:2em;}
   }
   @media only screen and (min-width : 690px) and (max-width : 809px) {
-
+    #contact{
+        float:left;
+        padding: 0.3em 0 1em 0;
+        font-size:2em;}
   }
   @media only screen and (min-width : 810px) and (max-width : 899px) {
 
